@@ -1,2 +1,7 @@
-# site-completo-clinica-ficticia
-Site completo sobre uma clínica fictícia criado para desenvolver o aprendizado sobre HTML.
+# Site Clínica 
+Site completo criado sobre uma clínica fictícia para desenvolver o aprendizado sobre HTML.
+
+##Tecnologias Utilizadas
+ > HTML
+ > CSS
+
